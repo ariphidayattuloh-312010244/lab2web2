@@ -26,7 +26,7 @@ Buatlah dokumen HTML seperti berikut
 
 dan Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
-![Gambar1](screenshot/sc1.png)
+![Gambar1](screenshot/ss1.png)
 
 `2. Mendeklarasikan CSS Internal`
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
