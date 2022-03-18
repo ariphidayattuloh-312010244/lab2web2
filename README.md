@@ -22,22 +22,26 @@ Langkah-langkah Praktikum.
 
 
 `1. Membuat dokumen HTML`
-Buatlah dokumen HTML seperti berikut
+
+Buatlah dokumen HTML seperti dibawah ini
 
 dan Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
 ![Gambar1](Screenshot/sc1.png)
 
 `2. Mendeklarasikan CSS Internal`
+
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
+Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
 
 ![Gambar1](Screenshot/sc2.png)
 
-Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
-hasilnya.
 
 `3. Menambahkan Inline CSS`
+
 Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
+
+Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
 ![Gambar1](Screenshot/sc3.png)
 
@@ -46,15 +50,18 @@ Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
 
 ![Gambar1](Screenshot/sc4.1.png)
 
-Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`
+
+Selanjutnya refresh kembali browser untuk melihat perubahannya.
 
 ![Gambar1](Screenshot/sc4.2.png)
 
 `5. Menambahkan CSS Selector`
-Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
-style_eksternal.css, tambahkan kode berikut.
 
-![Gambar1](Screenshot/sc5.png)
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
+`style_eksternal.css`, tambahkan kode berikut.
+
+![Gambar1](Screenshot/sc5.1.png)
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
