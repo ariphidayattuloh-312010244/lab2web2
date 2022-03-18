@@ -1,10 +1,11 @@
 # Pratikum 2
 
-Nama    : Arip hidayattuloh
+## Nama    : Arip hidayattuloh
 
-NIM     : 312010244
+## NIM     : 312010244
 
-Kelas   : TI.20.B.1
+## Kelas   : TI.20.B.1
+
 
 ## Instruksi Praktikum
 
@@ -65,4 +66,52 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
+![Gambar1](Screenshot/sc6.1.png)
+
+
+
+# Pertanyaan dan Tugas
+## 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+
+jawaban
+
 ![Gambar1](Screenshot/sc6.png)
+
+## 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+
+jawaban
+
+perbedaaannya jika hanya h1{} maka akan merubah semua yang ada didalam elemen h1 sedangkan intro h1 hanya akan merubah yang memiliki tag intro
+
+## 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+
+jawaban
+
+jika ketiga CSS merubah elemen yang sama maka deklarasi tersebut akan mengikuti aturan prioritas dimana prioritas CSS nya seperti ini:
+
+1. inline CSS
+2. ID selector CSS
+3. internal CSS
+4. external CSS
+contoh:
+ini adalah tampilan coding pada html testing dimana terdapat 2 kalimat yang memiliki elemen yang sama yaitu h1:
+
+disini bisa dilihat sudah terdapat 2 css mencoba merubah warna text h1 :
+
+![Gambar1](Screenshot/sc7.png)
+
+dan hasil adalah :
+
+![Gambar1](Screenshot/ss8.png)
+
+
+## 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! `( <p id="paragraf-1" class="text-paragraf"> )`
+
+jawaban
+
+![Gambar1](Screenshot/ss9.png)
+
+
+# SEKIAN DARI SAYA 
+
+ARIP HIDAYATTULOH
